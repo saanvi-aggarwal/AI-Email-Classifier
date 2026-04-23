@@ -1,0 +1,6 @@
+venv/
+data/emails.csv
+__pycache__/
+*.pyc
+*.pyi
+.env
